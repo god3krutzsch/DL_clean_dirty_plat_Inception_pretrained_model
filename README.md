@@ -1,0 +1,1 @@
+this model uses a pre-trained ResNet 50 model for the bottom layers and some top layers to generalize clean or dirty plate with early stopping and trating and validation accuracy and loss to track performance.
